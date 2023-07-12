@@ -1,0 +1,10 @@
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  #log {
+    text-align: left;
+    width: 400px;
+    margin: 0 auto;
+  }
